@@ -1,7 +1,7 @@
 # my-firstproject
 This is my first project on github
 <br>
-made by Coder07-developer
+This is the project made by me during the innternship in Cloud Computing domain.
 <br>
-aspiring to create wonderful projects showcasing my skills as a coder
-Hi, this is coder07, starting this journey with git hub 
+The project was all about "Creating a VM on Azure and
+Hosting a Static Website". 
